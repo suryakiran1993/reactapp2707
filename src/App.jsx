@@ -1,8 +1,10 @@
-function App() 
-{
+import './App.css';
+
+function App() {
   return (
-    <div style={{textAlign: 'center'}}>
-      <h1>My Project Name</h1>
+    <div className="container">
+      <h1>Welcome to My React Project</h1>
+      <p>This is a simple homepage deployed on GitHub Pages using Vite.</p>
     </div>
   );
 }
