@@ -3,7 +3,7 @@ import './App.css';
 function App() {
   return (
     <div className="container">
-      <h1>Welcome to My React Project - SURYA</h1>
+      <h1>Welcome to My React Project - KIRAN</h1>
       <p>This is a simple homepage deployed on GitHub Pages using Vite.</p>
     </div>
   );
